@@ -3,7 +3,7 @@ body {
   background-color: #eceeef;
   background-image: url('../images/background.jpg');
   background-repeat: repeat;
-  background-size: cover;
+
 }
 
 #side-nav, #main-content {
@@ -57,3 +57,5 @@ body {
    background-color: black;
    color: white;
 }
+
+
